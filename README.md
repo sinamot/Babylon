@@ -32,7 +32,7 @@ Sachs, A. and Hunger, H. (1988). _Astronomical Diaries and Related Texts from Ba
 
 —— (1996). _Astronomical Diaries and Related Texts from Babylonia. Volume 3: Diaries from 164–61 BC_. Vienna: Verlag der österreichischen Akademie der Wissenschaften.
 
-Slotsky, A. L. (1997). The Bourse of Babylon : market quotations in the astronomical diaries of Babylonia. CDL Press.
+Slotsky, A. L. (1997). _The Bourse of Babylon : market quotations in the astronomical diaries of Babylonia_. CDL Press.
 
 Van der Spek, R.J. and Mandemakers, C.A. (2003). "Sense and Nonsense in the Statistical Approach of Babylonian Prices." _Bibliotheca Orientalis_, 60(5), pp. 521-537.
 http://dx.doi.org/10.2143/BIOR.60.5.2015638
