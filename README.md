@@ -17,7 +17,7 @@ https://datasets.iisg.amsterdam/dataset.xhtml?persistentId=hdl:10622/X01XJA
 
 
 ## Data Citation:
-Van der Spek, R.J., Van Leeuwen, B. & Van Zanden, J. L. (2014). Markets from Ancient Babylonia to the Modern World - An Introduction. In: R.J. Van der Spek, B. Van Leeuwen & J. L. Van Zanden (eds.). A History of Market Performance - From Ancient Babylonia to the Modern World. Abingdon, Routledge, 1 - 16.
+Van der Spek, R.J., Van Leeuwen, B. & Van Zanden, J. L. (2014). _Markets from Ancient Babylonia to the Modern World - An Introduction_. In: R.J. Van der Spek, B. Van Leeuwen & J. L. Van Zanden (eds.). _A History of Market Performance - From Ancient Babylonia to the Modern World_. Abingdon, Routledge, 1 - 16.
 
 https://hdl.handle.net/10622/X01XJA
 
