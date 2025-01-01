@@ -34,6 +34,9 @@ Sachs, A. and Hunger, H. (1988). _Astronomical Diaries and Related Texts from Ba
 
 Slotsky, A. L. (1997). _The Bourse of Babylon : market quotations in the astronomical diaries of Babylonia_. CDL Press.
 
+Temin, P. (2002). "Price Behavior in Ancient Babylon." _Explorations in Economic History_, 39(1), pp. 46-60.
+https://doi.org/10.1006/exeh.2001.0774
+
 Van der Spek, R.J. and Mandemakers, C.A. (2003). "Sense and Nonsense in the Statistical Approach of Babylonian Prices." _Bibliotheca Orientalis_, 60(5), pp. 521-537.
 http://dx.doi.org/10.2143/BIOR.60.5.2015638
 
