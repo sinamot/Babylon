@@ -2,16 +2,14 @@
 Analysis of commodity prices from Ancient Babylon (582-61 BC).
 
 ## Data Source
-The price data comes from a vast archive of astronomical cuneiform tablets from the ancient city of Babylon. The clay tablets, written in cuneiform script, were fire-resistant so that many have survived.
+This commodity price data from Ancient Babylon (582-61 BC) comes from an archive of astronomical cuneiform tablets from the ancient city of Babylon. The clay tablets, written in cuneiform script, were fire-resistant so that many have survived.
 
-During the last seven centuries of the first millennium BC, clay tablets, of which about 1200 fragments are known, were filled with almost daily astronomical and other observations written in the Akkadian language by observers specifically trained and employed by the Temple of Marduk in Babylon. Each day, scribes made entries on small tablets, recording on a single tablet information for periods ranging from 1 or 2 days to a few months. This was possible because clay can be kept soft and inscribable for up to 3 months (for example, by wrapping it in a wet cloth). At a later date, the scribes composed larger texts from these smaller ones, with the full-sized versions covering either an entire Babylonian calendar year or the first or last half of one (Sachs and Hunger, 1988, 1989, 1996).
+The tablets come from the periods of the Neo-Babylonian empire (612–539 BC), the Persian or Achaemenid empire (539–331), the empire of Alexander the Great and the Seleucid empire (331–141), and the Parthian or Arsacid empire (141–61 BC) (that is, until the end of the relevant period served by cuneiform documentation). During this period, clay tablets, of which about 1200 fragments are known, were filled with almost daily astronomical and other observations. The tablets were written in the Akkadian language by observers specifically trained and employed by the Temple of Marduk in the city of Babylon. Each day, scribes made entries on small tablets, recording on a single tablet information for periods ranging from 1 or 2 days to a few months. This was possible because clay can be kept soft and inscribable for up to 3 months (for example, by wrapping it in a wet cloth). Then, at a later date, the scribes would transcribe the information from the smaller to tablets to larger ones, with the full-sized versions covering either an entire Babylonian calendar year or the first or last half of one (Sachs and Hunger, 1988, 1989, 1996).
 
-The tablets come from the period of the Neo-Babylonian empire (612–539 BC), the Persian or Achaemenid empire (539–331), the empire of Alexander the Great and the Seleucid empire (331–141), and the Parthian or Arsacid empire (141–61 BC, i.e. until the end of the relevant period served by cuneiform documentation). 
-
-These astronomical diaries have become accessible to a wider readership by the publication of the tablets in three volumes in a transcription and translation by the late Abraham Sachs and by Hermann Hunger (Sachs and Hunger 1988, 1989 and 1996). The prices on these tablets have been collected by the late Alice Slotsky (1997) and Peter Vargyas (2001) (but cf. Van der Spek and Mademakers 2003) and by the VU University Amsterdam research team. 
+The information on these tables have become accessible to a wider readership by transcription, translation, and publication of the tablets in three volumes by Abraham Sachs and by Hermann Hunger (Sachs and Hunger 1988, 1989 and 1996). The prices contained in the tablets have been collected by Alice Slotsky (1997) and Peter Vargyas (2001) (but cf. Van der Spek and Mademakers 2003) and by the VU University Amsterdam research team (Van der Spek, Van Leeuwen, and Van Zanden 2014).
 
 ### Download the Data
-The data was downloaed from the VU University Amsterdam.
+The data was downloaded from the VU University Amsterdam:
 
 https://hdl.handle.net/10622/X01XJA
 
